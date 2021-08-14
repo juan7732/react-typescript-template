@@ -1,7 +1,8 @@
 # Dependencies
 node_modules
-*/node_modules/
+*/node_modules/*
 node_modules/*
+/my-app/node_modules
 
 # Built files
 /dist
