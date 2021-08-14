@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+*/node_modules/
+node_modules/*
+
+# Built files
+/dist
+/src/schema.ts
+*.zip
+/packaged.template
+/storybook-static
+
+#IDE
+.vscode
